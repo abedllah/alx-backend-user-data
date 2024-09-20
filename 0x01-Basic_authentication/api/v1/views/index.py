@@ -41,4 +41,4 @@ def forbidden() -> str:
     Return:
       - Aborts
     """
-    abort(403)    
+    abort(403)
